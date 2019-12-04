@@ -68,7 +68,7 @@ main()
 #ifdef ex2
 /*2 - Com a estrutura abaixo, defina um vetor de estruturas de 4 elementos.
     Receba os dados pelo teclado usando ponteiros e imprima-os no video
-    tambÈm usando ponteiros. Utilize um comando de loop. (vetor de estruturas)
+    tamb√©m usando ponteiros. Utilize um comando de loop. (vetor de estruturas)
               nome, end, cidade, estado, cep*/
 
 struct info
@@ -150,7 +150,7 @@ main()
 
 #ifdef ex3
 /*3 - Receba um caracter via teclado usando ponteiros e compara com o vetor abaixo
-    usando ponteiros. mostre como resultado se s„o IGUAIS ou DIFERENTES.
+    usando ponteiros. mostre como resultado se s√£o IGUAIS ou DIFERENTES.
     vetor -> b,d,f,h,j,l,m,o,q,s,u,w,y*/
 
 main()
@@ -184,7 +184,7 @@ main()
 
 #ifdef ex4
 /*4 - Receba 2 string de ate 10 caracteres via teclado, compare-as usando ponteiros
-    e mostre como resultado se s„o IGUAIS ou DIFERENTES.*/
+    e mostre como resultado se s√£o IGUAIS ou DIFERENTES.*/
 
 main()
 {
