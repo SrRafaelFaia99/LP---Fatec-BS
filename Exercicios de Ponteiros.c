@@ -1,4 +1,4 @@
-#define ex6
+#define ex1
 #include <stdio.h>
 
 #ifdef ex1
